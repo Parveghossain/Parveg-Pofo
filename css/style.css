@@ -1,0 +1,278 @@
+header {
+    position: absolute;
+    right: 0;
+    left: 0;
+    z-index: 1;
+
+}
+
+.navbar-nav a {
+    color: black;
+}
+
+.carousel-item {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.carousel-item h1 {
+    font-family: Montserrat;
+    margin-top: 120px;
+    font-weight: 700;
+    font-size: 70px;
+
+}
+
+.carousel-item p {
+    font-family: montserrat;
+    font-size: 20px;
+    font-weight: 700;
+
+}
+
+.btn_carrousel {
+    color: white;
+    padding: 5px 29px;
+    border-radius: 50px;
+    background-color: black;
+    font-size: 16px;
+
+}
+
+.btn_carrousel:hover {
+    background-color: white;
+    color: black;
+}
+
+.btn_carrousel2 {
+    color: black;
+    padding: 5px 29px;
+    border-radius: 50px;
+    background-color: white;
+    font-size: 16px;
+
+}
+
+.btn_carrousel2:hover {
+    background-color: black;
+    color: white;
+}
+
+.content1 {
+    padding: 80px 0;
+}
+
+.content1 h1 {
+    color: red;
+    font-weight: 700;
+
+
+}
+
+.content1 h5 {
+    margin-left: -23px;
+    padding-bottom: 25px;
+    font-weight: 700;
+}
+
+.content2 img {
+    max-width: 100%;
+    height: 100vh;
+
+}
+.content2 .product{
+    padding: 60px;
+}
+.content2 .products {
+    padding-top: 30px;
+}
+.content2 .products p {
+    font-size: 15px;
+}
+
+.content2 i {
+font-size: 45px;
+}
+.countdown {
+    height: 70vh;
+}
+.count {
+    padding: 20px 0;
+        border: 1px solid;
+border-color: #e8dcdc;
+    
+}
+.count:hover{
+        border: 3px solid;
+border-color: red;
+}
+.counter i {
+    font-size: 45px;
+    margin-bottom: 8px;
+}
+
+.portfolio_content {
+margin: 80px;
+}
+.photos{
+margin-bottom: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.content3 .content {
+    border: 1px solid;
+border-color: #e8dcdc;
+    padding: 40px 50px;
+}
+.content3 i {
+    font-size: 45px;
+        color: red;
+
+}
+.content3 h5 {
+    margin: 20px 0;
+    margin: 20px 0;
+}
+.content3 p {
+    font-size: 15px;
+}
+.delivar {
+    height: 70vh;
+    background-color: #f9f7f0;
+}
+.creative {
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    background-repeat: no-repeat;
+}
+
+.video {
+    height: 80vh;
+    padding: 65px 0px;
+}  
+
+
+
+
+.video_content{
+    position: absolute;
+    bottom: 25%;
+    left: 25%;
+}
+.video_content img:hover{
+color: red;}
+
+
+
+.video_service{
+    padding-left: 23px;
+}
+.video_service h1 {
+    color: white;
+}
+.video_service h5 {
+    color: #b7b7b7;
+    padding: 20px 0px;
+}
+.video_service p {
+    color: #6f6f6f;
+    padding-bottom: 10px;
+}
+
+.video_service .btn {
+    border: 3px solid;
+    border-color: white;
+    background-color: transparent;
+    border-radius: 30px;
+    color: white;
+}
+.video_service .btn:hover{
+    color: black;
+    background-color: white;
+}
+.card-img-top::before{
+    content:''; 
+}
+.cards {
+padding: 200px 0;
+}
+.contact {
+    height: 50vh;
+    background-color: #000000e8;
+}
+.contact h5 {
+    margin: 0 0 20px ;
+}
+.contact .content1 {
+    border-left: 1px solid;
+    padding: 0 40px;
+}
+.content1 p {
+    padding: 20px 0;
+    color: #544e4e;
+}
+.contact .content2 {
+        border-left: 1px solid;
+    padding: 0 40px;
+
+}
+.content2 a {
+    color: #544e4e;
+    text-decoration: none;
+}
+.content2 a:hover {
+    color: red;
+}
+
+
+.contact .content3 {
+        border-left: 1px solid;
+
+        padding: 0 40px;
+
+}
+.content3 p{
+        color: #544e4e;
+
+}
+.contact .content4 {
+        border-left: 1px solid;
+    padding: 0 40px;
+
+}
+.content4 img {
+    width: 70px;
+margin: 3px;}
+
+
+
+
+
+
+
+.footter_area {
+    background-color: black;
+    padding: 20px 20px;
+}
+
+.footter_area .term {
+    float: right;
+}
+
+
